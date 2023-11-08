@@ -1,0 +1,10 @@
+.gss-not-ready {
+  opacity: 0;
+}
+
+.button {
+  background: hsl(0, 0%, 90%);
+  border-radius: 6px;
+  font-family: "Helvetica-Neue", Helvetica, Arial, sans-serif;
+  padding: 15px 20px;
+}
